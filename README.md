@@ -53,6 +53,7 @@ world. The death rate of patients in the age range of 70–79
 years is 8.0%, whereas that of patients above 80 years is 
 14.8%.
 ### Architecture for proposed system
+![architecture](https://user-images.githubusercontent.com/69344247/98072845-fcc5ac80-1e8c-11eb-83d6-d7eafaeb65e2.png)
 
 ## Technology used-
 Language used-Python
