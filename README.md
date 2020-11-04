@@ -13,7 +13,7 @@ on a deep convolutional neural network (CNN) to detect COVID19 patients using re
 X-ray images to identify such patients. Our findings indicate that
 such an analysis is valuable in COVID-19 diagnosis as X-rays are
 conveniently available quickly and at low costs. 
-## IntroductionI. Introduction
+## Introduction
 The coronavirus disease (COVID-19) is a global pandemic
 that was discovered by a Chinese physician in Wuhan, the
 capital city of Hubei province in mainland China, in
@@ -52,6 +52,8 @@ revealed that the death rate of COVID-19 is 4.5% across the
 world. The death rate of patients in the age range of 70–79
 years is 8.0%, whereas that of patients above 80 years is 
 14.8%.
+### Architecture for proposed system
+
 ## Technology used-
 Language used-Python
 Packages - Tensorflow,Numpy,Keras,Matplotlib
